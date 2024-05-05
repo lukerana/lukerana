@@ -17,7 +17,7 @@ _________
 * 🖥️  See my portfolio at [code-with-luke](https://code-with-luke.pages.dev/)
 * ✉️  You can contact me at [lukerana03@gmail.com](mailto:lukerana03.com@gmail.com)
 * 🚀  I'm currently working as Freelancer
-* 🧠  I'm Currently Pursuing BCA
+* 🧠  I'm currently Pursuing BCA
 * ❤️  Love to Learn new Technologies !
 
 
